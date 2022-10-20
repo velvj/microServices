@@ -1,0 +1,7 @@
+productID,productName,brand,model,category,price,date,color,qty,createdBy,updatedBy
+5,rolex max,rolex,8899,watch,750000,18-07-2022,grey silver,1,1,1
+6,apple pro ,apple,6666,watch,55000,15-07-2022,white grey,1,1,1
+7,macbook max,apple,7777,laptop,99000,15-08-2022,green,1,1,1
+8,oneplus  pro,oneplus,8888,mobile,70000,15-08-2022,gold,1,1,1
+9,redmi max,redmi,3223,mobile,80000,11-02-2022,blue,1,1,1
+10,vivo prime,vivo,2222,mobile,78000,11-02-2022,green,1,1,1
